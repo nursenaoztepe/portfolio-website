@@ -4,7 +4,7 @@
 Bu proje, frontend geliştirme öğrenme sürecimde yaptığım bir portfolio web sitesidir.  
 HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
-Udemy üzerinde **Levent Ertunçalılar** hocanın eğitim videoları takip edilerek yapılmıştır.  
+Udemy üzerinde **Levent Ertunalılar** hocanın eğitim videoları takip edilerek yapılmıştır.  
 Daha sonra üzerine kendi düzenlemelerimi ve kişisel dokunuşlarımı ekledim ✨
 
 ---
